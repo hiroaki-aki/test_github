@@ -1,4 +1,5 @@
-①test_featureによるファイル追加
-②内容変更
-③feature_1による変更
-④feature_2による変更
+１：test_featureによるファイル追加
+２：内容変更
+３：feature_1による変更
+４：feature_2による変更
+５：featureによる変更
