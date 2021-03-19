@@ -4,3 +4,4 @@
 ４：feature_2による変更
 ５：featureによる変更
 ６：feature_test2による変更
+７：feature_test2による変更
